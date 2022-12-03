@@ -71,4 +71,4 @@ group :test do
   gem "webdrivers"
 end
 gem 'image_processing', '~> 1.12', '>= 1.12.2'
-gem 'aws-sdk-s3', '~> 1.117', '>= 1.117.1' , require: false
+gem 'aws-sdk-s3' , require: false
